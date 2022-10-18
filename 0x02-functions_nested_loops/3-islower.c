@@ -2,7 +2,7 @@
 
 /**
  * _islower - prints
- *
+ * c: is the para
  * Return: 1 if char is lower, otherwise 0.
  */
 
