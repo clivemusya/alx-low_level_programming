@@ -1,0 +1,18 @@
+#include "main.h"
+
+/**
+ *_puts - prints
+ *@str: var
+ *Return: lenght
+ */
+
+void _puts(char *str)
+{
+int temp = 0;
+while (str[temp] != '\0')
+{
+_putchar(str[temp]);
+temp++;
+}
+_putchar('\n');
+}
